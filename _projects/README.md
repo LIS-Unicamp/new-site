@@ -1,6 +1,6 @@
 ---
 layout: splash
-permalink: /projects
+permalink: /projects/
 ---
 
 ## [NavScales](/projects/navscales/)

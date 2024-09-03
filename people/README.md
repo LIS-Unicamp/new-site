@@ -1,3 +1,7 @@
+<!-- 
+  1. Imagens sejam limitadas a 250px x 250px
+ -->
+ 
 ---
 layout: splash
 permalink: /people/
@@ -9,12 +13,19 @@ permalink: /people/
 
 ![André Santanché](images/andre-santanche.jpg){: .align-right} **André Santanché** is coordinator of the Laboratory of Information Systems (LIS) at IC. His research interests involve three main topics, which are also interconnected: e-science (mainly applied to health), data science (especially knowledge representation, natural language processing, and network science), and e-learning (collaborative platform for learning and research).
 
-<br>
 
+<br clear="all">
+---
 # PhD
 
-
+<br clear="all">
+---
 # Master
 
+![Talles Viana Vargas](images/talles-viana-vargas.jpg){: .align-left} **Talles Viana Vargas** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet a ipsum ac accumsan. Vivamus tempor sit amet libero faucibus varius. Etiam a vestibulum orci. Aliquam vehicula mauris vitae ex fringilla, vitae tempor magna pharetra.
 
+<br clear="all">
+---
 # Scientific Initiation
+
+![Lorem Ipsum Person](images/avatar.jpeg){: .align-left} **The Avatar** is a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet a ipsum ac accumsan. Vivamus tempor sit amet libero faucibus varius. Etiam a vestibulum orci. Aliquam vehicula mauris vitae ex fringilla, vitae tempor magna pharetra.

@@ -17,6 +17,9 @@ permalink: /people/
 <br clear="all">
 ---
 # PhD
+![Caroline Gerbaudo Nakazato](images/Caroline Gerbaudo Nakazato.jpg){: .align-left} **Caroline Gerbaudo Nakazato** holds a master degree in Computer Science and is currently interested on e-learning, graphic organizer, visual novel, particularly aimed at collaborative platform for health learning.
+
+<br>
 
 <br clear="all">
 ---

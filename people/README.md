@@ -26,7 +26,9 @@ permalink: /people/
 
 # Master
 
-![Talles Viana Vargas](images/talles-viana-vargas.jpg){: .align-left} **Talles Viana Vargas** holds a degree in Electrical Engineering and is currently interested on deep learning, computer vision, and natural language processing (NLP). He works with multi-modal models, particularly aimed at enhancing X-ray description tasks.
+![Gabriel de Freitas Leite](images/Gabriel-Leite.jpeg){: .align-left} **Gabriel de Freitas Leite** holds a degree in Control and Automation Engineering and is currently interested on unsupervised learning and exploratory data analysis. He works with clustering algorithms, particularly aimed at enhancing the understanding of clinical data.
+
+![Talles Viana Vargas](images/talles-viana-vargas.jpg){: .align-right} **Talles Viana Vargas** holds a degree in Electrical Engineering and is currently interested on deep learning, computer vision, and natural language processing (NLP). He works with multi-modal models, particularly aimed at enhancing X-ray description tasks.
 
 <br clear="all">
 ---

@@ -10,6 +10,8 @@ toc: true
 ---
 ## Project
 
+![Harena Facets](/projects/harena/images/harena-facets.png)
+
 [Virtual Patient](/projects/harena/virtual-patient/)
 
 [Clinical Notebook](/projects/harena/clinical-notebook/)

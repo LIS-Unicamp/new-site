@@ -1,11 +1,11 @@
-<!-- 
-  1. Imagens sejam limitadas a 250px x 250px
- -->
-
 ---
 layout: splash
 permalink: /people/
 ---
+
+<!-- 
+  1. Imagens sejam limitadas a 250px x 250px
+ -->
 
 ![Claudia Bauzer Medeiros](images/claudia-bauzer-medeiros.jpg){: .align-left} **Claudia Bauzer Medeiros** is full professor of databases at the Institute of Computing, University of Campinas (Unicamp), Brazil. She holds a degree in Electrical Engineering (1976) and an MSc degree in Computer Science (1979) from PUC-Rio, Brazil and a PhD in Computer Science from the University of Waterloo, Canada (1985). For the past 20 years, she has been working as a visiting professor at the University Paris-Dauphine, France. She has received Brazilian and international awards for research, teaching, and also for her work in fostering the participation of women in IT-related activities.
 

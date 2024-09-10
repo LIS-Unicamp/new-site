@@ -1,7 +1,7 @@
 <!-- 
   1. Imagens sejam limitadas a 250px x 250px
  -->
- 
+
 ---
 layout: splash
 permalink: /people/
@@ -20,12 +20,14 @@ permalink: /people/
 
 <br clear="all">
 ---
+
 # Master
 
-![Talles Viana Vargas](images/talles-viana-vargas.jpg){: .align-left} **Talles Viana Vargas** Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet a ipsum ac accumsan. Vivamus tempor sit amet libero faucibus varius. Etiam a vestibulum orci. Aliquam vehicula mauris vitae ex fringilla, vitae tempor magna pharetra.
+![Talles Viana Vargas](images/talles-viana-vargas.jpg){: .align-left} **Talles Viana Vargas** holds a degree in Electrical Engineering and is currently interested on deep learning, computer vision, and natural language processing (NLP). He works with multi-modal models, particularly aimed at enhancing X-ray description tasks.
 
 <br clear="all">
 ---
+
 # Scientific Initiation
 
 ![Lorem Ipsum Person](images/avatar.jpeg){: .align-left} **The Avatar** is a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet a ipsum ac accumsan. Vivamus tempor sit amet libero faucibus varius. Etiam a vestibulum orci. Aliquam vehicula mauris vitae ex fringilla, vitae tempor magna pharetra.

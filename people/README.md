@@ -17,7 +17,12 @@ permalink: /people/
 <br clear="all">
 ---
 # PhD
+
 ![Caroline Gerbaudo Nakazato](images/caroline-gerbaudo-nakazato.jpg){: .align-left} **Caroline Gerbaudo Nakazato** holds a master degree in Computer Science and is currently interested on e-learning, graphic organizer, visual novel, particularly aimed at collaborative platform for health learning.
+
+<br clear="all">
+
+![Heitor Mattosinho](images/heitor-mattosinho.jpg){: .align-right} **Heitor Mattosinho** is a doctoral candidate at IC, University of Campinas, Brazil. His research interests are towards e-learning platforms and natural language processing. He is currently working with Large Language Models and Knowledge Graphs focusing on the generation of Virtual Patient and feedback for medical students.
 
 <br clear="all">
 ---

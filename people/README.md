@@ -33,7 +33,7 @@ permalink: /people/
 
 <br clear="all">
 
-![Mylena Roberta](images/mylena-roberta.jpg){: .align-right} **Mylena Roberta** holds degrees in Computer Engineering and Computer Science and is currently interested in network science and computational biology. She works with complex networks applied in the context of transcriptomic data and network medicine.
+![Mylena Roberta](images/mylena-roberta.jpg){: .align-right} **Mylena Roberta** holds degrees in both Computer Engineering and Computer Science. Her research interests span across data science, network science, and computational biology. She currently works with complex networks applied to transcriptomic data and network medicine.
 
 <br clear="all">
 

@@ -44,4 +44,4 @@ permalink: /people/
 
 # Scientific Initiation
 
-![Lorem Ipsum Person](images/avatar.jpeg){: .align-left} **The Avatar** is a Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet a ipsum ac accumsan. Vivamus tempor sit amet libero faucibus varius. Etiam a vestibulum orci. Aliquam vehicula mauris vitae ex fringilla, vitae tempor magna pharetra.
+![Geovana Oliveira](images/geovana.jpg){: .align-left} **Geovana Oliveira** is a second-year Interdisciplinary Higher Education Program (ProFIS) student at the University of Campinas. She is currently working on a learning model based on cellular automata, focusing on cancer education.

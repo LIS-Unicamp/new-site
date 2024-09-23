@@ -44,4 +44,4 @@ permalink: /people/
 
 # Scientific Initiation
 
-![Geovana Oliveira](images/geovana.jpg){: .align-left} **Geovana Oliveira** is a second-year Interdisciplinary Higher Education Program (ProFIS) student at the University of Campinas. She is currently working on a learning model based on cellular automata, focusing on cancer education.
+![Geovana Oliveira](images/geovana.jpg){: .align-right} **Geovana Oliveira** is a second-year Interdisciplinary Higher Education Program (ProFIS) student at the University of Campinas. She is currently working on a learning model based on cellular automata, focusing on cancer education.

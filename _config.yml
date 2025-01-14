@@ -169,6 +169,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
+  - archive
 keep_files:
   - .git
   - .svn
@@ -268,6 +269,9 @@ collections:
     output: true
     toc: true
     permalink: /:collection/:path/
+  publications:
+    output: false
+    toc: false
 
 # Defaults
 defaults:
@@ -294,3 +298,5 @@ defaults:
       comments: false
       sidebar:
         nav: "projects"
+
+

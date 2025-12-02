@@ -12,10 +12,10 @@ excerpt: '## University of Campinas - UNICAMP
 
 ## Institute of Computing (IC)'
 feature_row:
-  - image_path: /assets/images/buttons/escience.png
-    alt: "e-science"
-    title: "e-Science"
-    excerpt: "Our research in e-science involves areas of Health, Biology, and Agriculture."
+  - image_path: /assets/images/buttons/open-science.png
+    alt: "open science"
+    title: "Open Science"
+    excerpt: "Our research in open science involves areas of Health, Biology, and Agriculture."
     url: "/docs/configuration/"
     btn_label: "Learn More"
   - image_path: /assets/images/buttons/ehealth.png
